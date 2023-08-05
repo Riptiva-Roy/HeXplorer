@@ -1,8 +1,6 @@
 # HeXplorer
 
-#Hexapod robot (Arduino)
-
-This project contains the code for a hexapod robot, a 6-legged walking creature that mimics an insect-like gait. The robot's movements are controlled using Bluetooth communication.
+Get ready to witness the marvel of robotics with HeXplorer - a6-legged creature that flawlessly mimics an insect-like gait. Its graceful movements are under your command, thanks to its innovative Bluetooth communication. Witness the seamless integration of control and precision as this hexapod glides with unrivaled grace.
 
 Video of motion:
 https://www.youtube.com/watch?v=sqbBWBNbRG4
